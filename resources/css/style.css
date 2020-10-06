@@ -176,7 +176,6 @@ a:hover {
   }
 
   .comment {
-    height: 150px;
     max-width: 400px;
   }
 
@@ -261,8 +260,7 @@ a:hover {
   }
 
   .comment {
-    height: 180px;
-    max-width: 330px;
+    max-width: 400px;
   }
 
   #first-comment {
