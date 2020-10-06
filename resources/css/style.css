@@ -109,7 +109,7 @@ a:hover {
 
 /* Tablets design */
 
-@media only screen and (min-width: 768px) and (max-width: 1379px) {
+@media only screen and (min-width: 768px) and (max-width: 1349px) {
 
   body {
     background-image: url('../images/bg-pattern-bottom-desktop.svg');
@@ -199,7 +199,7 @@ a:hover {
 
 /* Large desktop design */
 
-@media only screen and (min-width: 1380px) {
+@media only screen and (min-width: 1350px) {
 
   body {
     background-image: url('../images/bg-pattern-bottom-desktop.svg');
